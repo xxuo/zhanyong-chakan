@@ -1,0 +1,24 @@
+{
+  "name": "占用查看",
+  "type": "Android Application",
+  "package": "com.example.占用查看",
+  "created_date": "2026-04-11",
+  "java_files": [
+    "app\\build\\gen\\occupatio\\check\\BuildConfig.java",
+    "app\\build\\generated\\source\\buildConfig\\release\\occupatio\\check\\BuildConfig.java",
+    "app\\src\\main\\java\\occupatio\\check\\MainActivity.java"
+  ],
+  "resource_files": [
+    "app\\proguard-resources.json",
+    "app\\build\\bin\\injected\\AndroidManifest.xml",
+    "app\\build\\intermediates\\annotation_processor_list\\release\\annotationProcessors.json",
+    "app\\build\\intermediates\\bundle_manifest\\release\\AndroidManifest.xml",
+    "app\\build\\intermediates\\compatible_screen_manifest\\release\\output-metadata.json",
+    "app\\build\\intermediates\\incremental\\mergeReleaseAssets\\merger.xml",
+    "app\\build\\intermediates\\incremental\\mergeReleaseJniLibFolders\\merger.xml",
+    "app\\build\\intermediates\\incremental\\mergeReleaseShaders\\merger.xml",
+    "app\\build\\intermediates\\incremental\\release\\mergeReleaseResources\\merger.xml",
+    "app\\build\\intermediates\\merged_manifest\\release\\AndroidManifest.xml"
+  ],
+  "total_files": 24
+}
